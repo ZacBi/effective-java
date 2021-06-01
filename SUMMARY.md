@@ -1,6 +1,6 @@
 # Table of contents
 
-* [引言](chapters/Introduction.md)
+* [引言](README.md)
 * [Chapter 1. 创造和销毁对象](chapters/Chapter%201.%20创造和销毁对象.md)
   * [01. 考虑使用静态工厂方法替代构造方法](chapters/01.%20考虑使用静态工厂方法替代构造方法.md)
   * [02. 当构造方法参数过多时使用builder模式](chapters/02.%20当构造方法参数过多时使用builder模式.md)
@@ -95,7 +95,6 @@
   * [82. 文档应包含线程安全属性](chapters/82.%20文档应包含线程安全属性.md)
   * [83. 明智审慎的使用延迟初始化](chapters/83.%20明智审慎的使用延迟初始化.md)
   * [84. 不要依赖线程调度器](chapters/84.%20不要依赖线程调度器.md)
-
 * [Chapter 11. 序列化](chapters/Chapter%2011.%20序列化.md)
   * [85. 优先选择 Java 序列化的替代方案](chapters/85.%20优先选择%20Java%20序列化的替代方案.md)
   * [86. 非常谨慎地实现 Serializable](chapters/86.%20非常谨慎地实现%20Serializable.md)

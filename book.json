@@ -1,0 +1,24 @@
+{
+    "root": ".",
+    "title": "Effective Java 3rd",
+    "description": "Java has changed dramatically since the previous edition of Effective Java was published shortly after the release of Java 6. This Jolt award-winning classic has now been thoroughly updated to take full advantage of the latest language and library features. The support in modern Java for multiple paradigms increases the need for specific best-practices advice, and this book delivers.As in previous editions, each chapter of Effective Java, Third Edition, consists of several“ items, ”each presented in the form of a short, stand - alone essay that provides specific advice, insight into Java platform subtleties, and updated code examples. The comprehensive descriptions and explanationsfor each item illuminate what to do, what not to do, and why.",
+    "author": "Joshua Bloch",
+    "isbn": "9780134686097",
+    "language": "zh-hans",
+    "links": {
+        "sidebar": {
+            "Home": "https://github.com/ZacBi"
+        }
+    },
+    "plugins": ["anchors", "emphasize", "include-codeblock", "simple-page-toc"],
+    "pluginsConfig": {
+        "include-codeblock": {
+            "template": "ace",
+            "theme": "monokai"
+        },
+        "simple-page-toc": {
+            "maxDepth": 3,
+            "skipFirstH1": true
+        }
+    }
+}
