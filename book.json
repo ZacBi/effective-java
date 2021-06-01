@@ -10,15 +10,11 @@
             "Home": "https://github.com/ZacBi"
         }
     },
-    "plugins": ["anchors", "emphasize", "include-codeblock", "simple-page-toc"],
+    "plugins": ["anchors", "emphasize", "include-codeblock"],
     "pluginsConfig": {
         "include-codeblock": {
             "template": "ace",
             "theme": "monokai"
-        },
-        "simple-page-toc": {
-            "maxDepth": 3,
-            "skipFirstH1": true
         }
     }
 }
